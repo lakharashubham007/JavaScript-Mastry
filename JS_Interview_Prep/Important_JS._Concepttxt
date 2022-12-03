@@ -3,3 +3,11 @@ Top most important JS Concept
 
 Basics:
 1.Functon:
+
+
+Question:
+Is JavaScript a statically or a dynamically typed language?
+
+Quick answer:
+JavaScript is a dynamically typed language, 
+but TypeScript is a statically typed language.
